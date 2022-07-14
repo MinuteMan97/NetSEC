@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- bari.launchd.xml -->
+
+<launch>
+    <copy file="bari.net.xml" />
+    <copy file="bari.rou.xml" />
+    <copy file="bari.poly.xml" />
+    <copy file="bari.sumo.cfg" type="config" />
+</launch>
